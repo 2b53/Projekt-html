@@ -5,14 +5,14 @@
 
 ### Introduction
 
-# This is an admin panel designed to manage various aspects of a fictional e-commerce platform. The panel provides a simple and intuitive interface for administrators to view and manage users, orders, products, and settings.
+# This is an admin panel designed to manage various aspects of a fictional e-commerce platform. The panel provides a simple and intuitive interface for administrators to view and manage users, orders, products and settings.
 
 ### Features
 
-# * User Management: View and manage user accounts, including creating new users, editing existing ones, and deleting users.
-# * Order Management: View and manage orders, including creating new orders, editing existing ones, and deleting orders.
-# * Product Management: View and manage products, including creating new products, editing existing ones, and deleting products.
-# * Settings: Manage settings for the admin panel, including changing the theme, language, and other configuration options.
+# * User Management: View and manage user accounts, including creating new users, editing existing ones and deleting users.
+# * Order Management: View and manage orders, including creating new orders, editing existing ones and deleting orders.
+# * Product Management: View and manage products, including creating new products, editing existing ones and deleting products.
+# * Settings: Manage settings for the admin panel, including changing the theme, language and other configuration options.
 # * Logout: Log out of the admin panel.
 
 ### Technical Requirements
