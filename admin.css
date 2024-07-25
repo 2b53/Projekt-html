@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: #ccc;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content section {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.main-content section h2 {
+  margin-top: 0;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.table thead th, .table tbody td {
+  border: 1px solid #ddd;
+}
+
+.table thead th {
+  background-color: #333;
+  color: #fff;
+}
+
+.table tbody td {
+  padding: 10px;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}

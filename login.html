@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+    <meta charset="UTF-8">
+    <title>Links</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Links</h1>
+ </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Start </a></li>
+            <li><a href="about.me.html">About me</a></li>
+            <li><a href="links.html">Links></a></li>
+	    <li><a href="login.html">Login></a></li>
+
+        </ul>
+    </nav>
+ 
+  <main>
+    <section id="register">
+      <h2>Register</h2>
+      <form action="#" method="post">
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username"><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br>
+        <input type="submit" value="Register">
+      </form>
+    </section>
+    <section id="login">
+      <h2>Login</h2>
+      <form action="#" method="post">
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username"><br>
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password"><br>
+        <input type="submit" value="Login">
+      </form>
+    </section>
+    <div id="chatbox"></div>
+  </main>
+
+<form action="login.php" method="post">
+  <!-- form fields here -->
+</form>
+
+  <!-- Chatbox code goes here -->
+  <!-- You can add JavaScript code to display the chat messages here -->
+  <script src="LoginServlet.java"></script>
+  <script src="login.jsp"></script>
+  <script src="script.js"></script>
+
+
+</body>
+</html>
